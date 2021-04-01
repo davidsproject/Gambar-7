@@ -1,0 +1,6 @@
+Logo Home = https://img.icons8.com/android/22/ffffff/home.png
+Logo About = https://img.icons8.com/metro/22/ffffff/about.png
+Logo Download = https://img.icons8.com/metro/22/ffffff/download.png
+Logo Settings = https://img.icons8.com/metro/22/ffffff/settings.png
+Logo Support = https://img.icons8.com/pastel-glyph/22/ffffff/online-support.png
+Logo Sign Out = https://img.icons8.com/metro/22/ffffff/export.png"
